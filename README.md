@@ -61,4 +61,4 @@ Where, dataset_x defines the input and dataset_y defines the respective label id
 
 ## Contributions:
 
-Contributions are welcome on this repository, if you are willing to submit or push any proposal please check out the contributions.md
+Contributions are welcome on this repository, if you are willing to submit or push any proposal please check out the contributing.md
